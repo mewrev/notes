@@ -1,0 +1,2 @@
+# Find unused functions using GCC.
+#CXX_FLAGS+=-ffunction-sections -fdata-sections
